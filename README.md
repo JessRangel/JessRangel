@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-![Hello there](https://tenor.com/gVyCZCqpV9R.gif)
+<img src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
 
 I'm Jess.
 
@@ -16,27 +16,12 @@ I also enjoy reading, gaming, and Rollerblading. The Florida sun is perfect for 
 
 📫 You can also find me on [LinkedIn](https://www.linkedin.com/in/jessicaarangel/)
 
-### What will you find in this repo?
+### What will you find in this GitHub?
 
 Old projects, especially those related to my bachelor's degree. Here's a sneak peek...
 
 - **The Christmasifier!** is a lovely plugin for WordPress that will change the theme of your page to be more merry. It was for Web Development class, and even though now I work with Angular, it was greatly helpful to help understand HTML and othe frontend concepts.
 
-- **Swamp Scent** is a joke webpage also for Web Development to explore Google search terms and how to appear at the top search of an engine. Really good exposure to SEOs and we got a lovely gator mascot :)
+- **Swamp Scent** is a joke webpage also for Web Development to explore Google search terms and how to appear at the top search of an engine. Really good exposure to SEOs, the scents of Florida, and a lovely gator mascot :)
 
-- **Trie Prediction** and others were for Data Structures, great introductions to making recursive calls and word/letter predictors.
-
-<!--
-**JessRangel/JessRangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Trie Prediction** and others were for Data Structures, great introductions to making recursive calls and word/letter predictions.
